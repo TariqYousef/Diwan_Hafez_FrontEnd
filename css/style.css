@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "IranNastaliq";
+
+    src: url('IranNastaliq.ttf')
+}
+
+.highlighted{cursor: pointer; background-color:#888888;padding:2px;  color:#FFF;border: 2px solid;border-radius: 5px;}
+.highlighted2{cursor: pointer; background-color:#FF4466;padding:2px;  color:#FFF;border: 2px solid;border-radius: 5px;}
+.notAligned{color: #d9534f; background-color: #FFFFFF}
+.Aligned{ color: #5cb85c; background-color: #FFFFFF}
+.userinfo{ list-style-type: none;font-size: 12px; color: #5e5e5e; margin: 4px; padding: 4px;}
+.userinfo li {display: inline;float: left; padding: 10px;}
+.alignmentBlock{
+    padding: 10px;
+}
+.lang1{ color:#448844}
+.lang2{color:#884444}
+.urn{font-family: "Courier New"; color: #434d3b}
